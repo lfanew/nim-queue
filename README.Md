@@ -1,0 +1,1 @@
+[Documentation](https://lfanew.github.io/nim-queue/index.html)
